@@ -16,6 +16,7 @@ I am always looking for opportunities to learn and improve my code!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png"></code>
 <br>
 
  <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
