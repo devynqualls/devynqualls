@@ -1,6 +1,4 @@
-Hello! I am Devyn. an aspiring Developer/Engineer new to the field.
-I currently have experience with HTML/CSS, JavaScript, React, and Python.
-I am always looking for opportunities to learn and improve my code!
+Hello!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
